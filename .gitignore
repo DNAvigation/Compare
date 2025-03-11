@@ -1,0 +1,7 @@
+# gitignore
+clinvar2021.dataset
+clinvar2021.dbNSFP.in
+clinvar2021.dbNSFP.out
+clinvar2021.dbNSFP.out.err
+clinvar2021.dbNSFP.out.filter
+clinvar2021.dbNSFP.out.score
