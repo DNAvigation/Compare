@@ -1,1 +1,3 @@
-# Assessing the performance of pathogenicity prediction methods on rare SNVs in coding regions
+# Compare
+- 28 pathogenic prediction methods
+- 10 performance measures
