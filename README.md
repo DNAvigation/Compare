@@ -1,1 +1,1 @@
-# Assessing the performance of pathogenicity prediction methods for rare SNVs in coding regions
+# Assessing the performance of pathogenicity prediction methods on rare SNVs in coding regions
